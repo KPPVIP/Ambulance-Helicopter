@@ -1,0 +1,54 @@
+INSTALL
+
+
+
+
+1. Open Open IV
+
+
+
+
+2. For Open IV do the following:
+
+
+
+
+3. Locate the base mod
+
+
+
+
+4. Go into Edit mode
+
+5. open polmav+hi.ytd
+
+
+
+
+6. locate a tm_temp1 , 2 , 3 and 4
+
+
+
+
+7. by pressing the replace button to replace the images in the file with the images in the newly downloded mod
+
+ENSURE YOU PUT THE CORRECT IMAGES WITH THE SAME NAME TOGETHER
+
+
+
+
+8. now put the files back in the game directory and you are good to go
+
+
+
+
+
+
+CREDITS
+
+
+- Model: Cmte_Elias é CANAL EMBRAER GTA
+
+- Template Liveries made: TopMods ©.
+
+- Liveries made: Marshall Mod Studios.
